@@ -1,2 +1,6 @@
-# sql-analytics-projects
-SQL analytics projects: customer analysis, cohort analysis, revenue metrics and business insights
+SQL Analytics Projects
+
+Описание:
+
+Набор аналитических SQL-проектов с использованием агрегатных функций, JOIN, подзапросов и оконных функций.
+Выполнен анализ пользовательского поведения, платежей, когорт и бизнес-метрик.
